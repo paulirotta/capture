@@ -7,3 +7,9 @@ https://www.youtube.com/watch?v=aypkzE-yiTY
 https://wiki.linuxaudio.org/wiki/raspberrypi 
 
 3. The code is not yet migrated to Jack, so come back soon
+
+
+
+If Jack does not pan out, considering also using: https://app.assembla.com/wiki/show/portaudio/Platforms_RaspberryPi
+
+Install that from http://www.portaudio.com/download.html and then https://crates.io/crates/sound_stream
