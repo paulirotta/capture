@@ -5,4 +5,4 @@ authors = ["Paul Houghton <paulirotta@gmail.com>"]
 edition = "2018"
 
 [dependencies]
-alto = "3.0.3"
+jack = "0.6"
